@@ -1,0 +1,9 @@
+---
+title: yay!
+author: ejwesley
+date: '2020-01-22'
+slug: yay
+categories: []
+tags: []
+---
+ I love Kyle!
