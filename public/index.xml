@@ -6,10 +6,19 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Basics of cartography</title>
+      <link>/2020/02/16/basics-of-cartography/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/16/basics-of-cartography/</guid>
+      <description> true  Elements of design  </description>
+    </item>
     
     <item>
       <title>Am I blogging?</title>
@@ -18,6 +27,24 @@
       
       <guid>/2020/01/22/am-i-blogging/</guid>
       <description>Only one way to find out!</description>
+    </item>
+    
+    <item>
+      <title>I think therefore I blog</title>
+      <link>/2020/01/22/i-think-therefore-i-blog/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/22/i-think-therefore-i-blog/</guid>
+      <description> library(ggplot2) ggplot(mtcars, aes(wt, mpg, color = as.factor(cyl))) + geom_point(size = 5) + scale_color_brewer() + theme_dark() + theme(legend.title = element_blank()) </description>
+    </item>
+    
+    <item>
+      <title>yay!</title>
+      <link>/2020/01/22/yay/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/22/yay/</guid>
+      <description>I love Kyle!</description>
     </item>
     
     <item>

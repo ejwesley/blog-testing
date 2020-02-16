@@ -1,0 +1,17 @@
+---
+title: Basics of cartography
+author: Elizabeth Wesley
+date: '2020-02-16'
+toc: true
+slug: basics-of-cartography
+categories: []
+tags:
+  - GIS
+  - cartography
+
+---
+
+# **Elements of design**
+
+![](/post/2020-02-16-basics-of-cartography_files/images/cs-of-communication.png)
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on A Hugo website</title>
+    <link>/tags/gis/</link>
+    <description>Recent content in GIS on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basics of cartography</title>
+      <link>/2020/02/16/basics-of-cartography/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/16/basics-of-cartography/</guid>
+      <description> true  Elements of design  </description>
+    </item>
+    
+  </channel>
+</rss>
